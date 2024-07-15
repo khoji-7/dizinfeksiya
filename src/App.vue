@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Header from './components/Header.vue'
+import Header from './components/header.vue'
 import Banner from "./components/banner.vue"
 import Service from "./components/service.vue"
 import Guarante from "./components/guarante.vue"
 import Faq from "./components/faq.vue"
-import ContactUs from "./components/ContactUs.vue"
+import ContactUs from "./components/contactUs.vue"
 </script>
 
 <template>
